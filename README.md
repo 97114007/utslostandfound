@@ -7,11 +7,11 @@ To log into the application, please use the following credentials:
 
 1) Student Login 
 UserID: 12345678 
-Password: Test123
+Password: pass123 
 
 2) Admin Login 
 UserID: 11982079 
-Password: pass123
+Password: Test123
 
 
 Thank you for trying UTS Lost and Found. Hope you had an enjoyable experience. 
